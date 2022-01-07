@@ -4,6 +4,8 @@ Repositório de arquivos da Prusa Mendel IT2 do Curso Arduino
 Playlist:
 https://www.youtube.com/playlist?list=PLZBvA3l7rI6FJIXnLiigdH5EZx48wwpoT
 
+Peças no Mercado Livre:
+https://lista.mercadolivre.com.br/kit-ramps-1.6#D[A:kit%20ramps%201.6]
 
 Introdução:
 
