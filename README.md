@@ -19,6 +19,10 @@ Montagem:
 Videos 7 - 18
 
 
+Ultimaker Cura
+
+https://ultimaker.com/software/ultimaker-cura
+
 
 https://reprap.org/wiki/Prusa_Mendel
 
